@@ -14,6 +14,7 @@ function showOrHide() {//パスワードを表示するか隠すかを判断す�
     { name: "user2", age: 22, email: "user2@example.com", password: "user-2" },
     { name: "user3", age: 23, email: "user3@example.com", password: "user-3" }
     { name: "shinji",age: 25, email: "shinji.riku@gmail.com" password: "shinji0510"}
+    { name: "11111",age: 25, email: "11111@gmail.com" password: "111111"}
   ];
   
   function login() {
