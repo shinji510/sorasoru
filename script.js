@@ -9,11 +9,11 @@ function showOrHide() {//パスワードを表示するか隠すかを判断す�
   }
   
   let userdata = [//必要に応じてここにログイン情報を追加する。例:{name: "user4",age: 24, email: "user4@exam@;e.com" password: "user-4"}
+    { name: "shinji", age: 25, email: "shinji.riku@gmail.com", password: "shinji0510" },
     { name: "administrator", age: 20, email: "Administrator@example.com", password: "Administrator" },
     { name: "user1", age: 21, email: "user1@example.com", password: "user-1" },
     { name: "user2", age: 22, email: "user2@example.com", password: "user-2" },
-    { name: "user3", age: 23, email: "user3@example.com", password: "user-3" },
-    { name: "shinji4", age: 25, email: "shinji.riku@gmail.com", password: "shinji0510" }
+    { name: "user3", age: 23, email: "user3@example.com", password: "user-3" }
   ];
   
   function login() {
